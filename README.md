@@ -7,4 +7,4 @@ Course files for the Regular Expressions playlist on The Net Ninja YouTube chann
 
 ## Lessons Learned
 
--  Opacity doesn't hide completely all paragraphs. I tried to copy and paste everything and get all hiden text.
+-  Opacity doesn't hide completely all paragraphs. I tried to copy and paste everything and get all hidden text.
