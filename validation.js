@@ -12,8 +12,7 @@ const validate = (field, regex) => regex.test(field);
 
 inputs.forEach(input => {
     input.addEventListener('keyup', (e) => {
-        // console.log(e.target.value); 
-        console.log(e.target.classList)
+
         if (validate(e.target.value, patterns[e.target.name])) {
             e.target.classList.add('valid');
             e.target.classList.remove('invalid');
